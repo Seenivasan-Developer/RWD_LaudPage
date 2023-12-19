@@ -1,6 +1,6 @@
 .boxpart{
     background-color: #343a40;
-    padding:65px 5px 125px 5px;
+    padding:105px 5px 185px 5px;
     color:white;
     margin-bottom: 50px;
   }
@@ -11,7 +11,7 @@
     margin:0px 10px;
   }
   .maincontent{
-margin:1px 100px 30px 200px;
+margin:1px 10px 30px 10px;
   }
   img{
     margin:40px 1px;
@@ -27,7 +27,7 @@ margin:1px 100px 30px 200px;
   }
   .boxpart1{
     background-color: #343a40;
-    padding:45px 5px 1px 5px;
+    padding:25px 5px 15px 5px;
     color:white;
     margin: 80px 1px 40px 1px;
 
@@ -37,11 +37,6 @@ margin:1px 100px 30px 200px;
     width: 100%;
     margin-bottom:100px;
   }
-
-  .horizontal-line {
-    border-top: 1px solid gray; /* Adjust color and thickness as needed */
-  }
-
   .text-middle {
     position: absolute;
     top: 50%;
@@ -55,4 +50,24 @@ margin:1px 100px 30px 200px;
     font-size: 20px;
     font-weight: bolder;
   }
-  
+  .card{
+    margin:1px 1px 100px 1px;
+  }
+  .boxpart2{
+    background-color: #343a40;
+    padding:45px 20px 30px 5px;
+    color:white;
+    margin: 80px 0px 1px 0px;
+
+  }
+  .about{
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .vline{
+    border-left: 1px solid #6c757d;
+  }
+  .container-fluid{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
